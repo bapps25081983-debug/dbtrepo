@@ -6,3 +6,4 @@ sources:
       - name: orders
       - name: customers
       - name: payment
+      - name: t_ticket      
