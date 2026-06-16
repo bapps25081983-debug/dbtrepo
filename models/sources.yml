@@ -7,3 +7,8 @@ sources:
       - name: customers
       - name: payment
       - name: t_ticket      
+      - name: stg_orders        
+      - name: stg_returns  
+      - name: stg_daily_sales  
+      - name: stg_customers  
+      - name: stg_revenue  
